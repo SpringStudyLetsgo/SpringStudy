@@ -5,25 +5,25 @@ section: section1
 
 # 목차
 
-[A. 객체 지향 특징](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[A. 객체 지향 특징]
 
-[B. 유연하고, 변경이 용이?](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[B. 유연하고, 변경이 용이?]
 
-[C. 다형성의 실세계 비유](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[C. 다형성의 실세계 비유]
 
-[D. 역할과 구현을 분리](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[D. 역할과 구현을 분리]
 
-[E. 자바 언어](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[E. 자바 언어]
 
-[F. 객체의 협력이라는 관계부터 생각](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[F. 객체의 협력이라는 관계부터 생각]
 
-[G. 자바 언어의 다형성](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[G. 자바 언어의 다형성]
 
-[H. 다형성의 본질](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[H. 다형성의 본질]
 
-[I. 역할과 구현을 분리](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[I. 역할과 구현을 분리]
 
-[J. 스프링과 객체 지향](https://www.notion.so/ae59fe6e028948dca92dc26b7da28870)
+[J. 스프링과 객체 지향]
 
 ## A. 객체 지향 특징
 
